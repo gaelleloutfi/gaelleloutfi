@@ -1,4 +1,4 @@
-## Hi there 👋 Moi c'est Gaelle. ![Duck](FOMO-Duck.gif)
+## Hi there 👋 Moi c'est Gaelle. ![Duck](assets/fomo-duck.gif)
 
 :octocat: **Bioinformatics Student @ Université Paris Cité | Bioinformatics Software Developper @ Institut Cochin**
 📍**Paris, France**
@@ -30,16 +30,17 @@ me.say_hi()
 
 ### Tech Stack 🛠️
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
+
 ---
 
 ### Let's Get in Touch! 🌐
@@ -51,6 +52,6 @@ me.say_hi()
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/gaelle-loutfi/)
     
 <div align="center">
-<img src="https://github.com/gaelleloutfi/gaelleloutfi/connected.gif" alt="Gaelle Loutfi" width="350" height="200" />
+  <img src="assets/connected.gif" alt="Gaelle Loutfi" width="350" />
 </div>
 
