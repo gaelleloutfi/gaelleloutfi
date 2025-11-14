@@ -9,6 +9,7 @@
 <div align="center">
 <img src="assets/FOMO-Duck.gif" alt="Duck" width="350" />
 </div>
+
 ---
 
 ### About Me 🧬💻
