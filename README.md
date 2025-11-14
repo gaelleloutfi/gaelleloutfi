@@ -1,8 +1,11 @@
-## Hi there 👋 Moi c'est Gaelle. <img src="assets/FOMO-Duck.gif" alt="Duck" width="80" />
+## Hi there 👋 Moi c'est Gaelle. 
 
 
 :octocat: **Bioinformatics Student @ Université Paris Cité | Bioinformatics Software Developper @ Institut Cochin**
 📍**Paris, France**
+---
+
+<img src="assets/FOMO-Duck.gif" alt="Duck" />
 
 ---
 ### About Me 🧬💻
