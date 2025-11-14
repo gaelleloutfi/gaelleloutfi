@@ -22,7 +22,7 @@ class BioinformaticsEngineer:
 
     def __init__(self):
         self.name = "Gaelle Loutfi"
-        self.role = "Bioinformatics Engineer"
+        self.role = "Bioinformatics Software Developper"
         self.education = {
           "BSc" : "Lebanese American University",
           "MSc" : "Université Paris Cité"
