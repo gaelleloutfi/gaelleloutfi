@@ -1,14 +1,18 @@
 ## Hi there 👋 Moi c'est Gaelle. 
 
 
-:octocat: **Bioinformatics Student @ Université Paris Cité | Bioinformatics Software Developper @ Institut Cochin**     
+:octocat: 
+**Bioinformatics Student @ Université Paris Cité | Bioinformatics Software Developper @ Institut Cochin** 
+
 📍**Paris, France**
 ---
 <div align="center">
 <img src="assets/FOMO-Duck.gif" alt="Duck" width="350" />
 </div>
 ---
+
 ### About Me 🧬💻
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
