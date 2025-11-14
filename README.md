@@ -43,6 +43,7 @@ me.say_hi()
 ---
 
 ### Let's Get in Touch! 🌐
+
     * [**Personal Mail**](mailto:gaelle.loutfi@gmail.com)
     
     * [**Academic Mail**](mailto:gaelle.loutfi@etu.u-paris.fr)
